@@ -1,2 +1,2 @@
 # kyc-web-admin
-web admin using quasar framework
+KSEI know your customer web admin using quasar framework
